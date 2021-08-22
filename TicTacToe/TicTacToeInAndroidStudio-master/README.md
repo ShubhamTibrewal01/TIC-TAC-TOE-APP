@@ -1,4 +1,4 @@
-# TicTacToeInAndroidStudio
+# TicTacToe
 This is Tic Tac Toe Game which created in Android Studio Using Java
 
 This is the basic design of App in Playing Condition
